@@ -1,2 +1,2 @@
 # Team Chunn Website
-(https://teamchunn.github.io/project-website/)
+https://teamchunn.github.io/project-website/
