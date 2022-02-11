@@ -1,2 +1,2 @@
 # Brag House Project Website
-https://teamchunn.github.io/project-website/
+https://teamchunn.github.io/Brag-House-Project/
